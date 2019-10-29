@@ -1,2 +1,4 @@
 # Databases-and-Web-Services-Project-JUB
-Final Project for course submission
+Databases and Web Services 
+Jacobs University Fall 2019
+Professor Peter Baumann
